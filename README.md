@@ -1,2 +1,2 @@
 # MacroPad
-HackClub Blueprint HackPad
+HackClub HackPad
